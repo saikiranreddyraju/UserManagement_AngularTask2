@@ -5,7 +5,7 @@
       "age": 35,
       "firstName": "Bradford",
       "lastName": "Ledner",
-      "isDeleted": false,
+      "isDeleted": true,
       "login": "bradford.ledner",
       "password": "brad@123",
       "lastUpdated": "2023-04-29T10:41:36.828Z"
@@ -228,7 +228,17 @@
       "login": "sachin.tendulkar",
       "password": "sachin@123",
       "isDeleted": false,
-      "lastUpdated": "2023-04-29T03:58:25.008Z"
+      "lastUpdated": "2023-05-03T11:24:23.372Z"
+    },
+    {
+      "id": "16831128981776950",
+      "firstName": "Sai Kiran",
+      "lastName": "Raju",
+      "age": 22,
+      "login": "saikiran_raju",
+      "password": "Sai@12345",
+      "isDeleted": false,
+      "lastUpdated": "2023-05-03T11:23:32.824Z"
     }
   ]
 }

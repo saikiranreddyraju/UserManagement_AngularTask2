@@ -34,7 +34,7 @@ export class CreateUserComponent {
   getUniqueId() : string{    
     let uniqueId=Date.now()+((Math.random()*100000).toFixed());
     return uniqueId;
-  }  
+  }   
 
 
   submitForm(){
